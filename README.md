@@ -1,3 +1,3 @@
-#AN EXAMPLE OF EXPRESS
+#EXPRESS
 
-An example which is guided by [Expressjs.com](http://expressjs.com/guide.html)
+[Expressjs.com](http://expressjs.com/guide.html)
